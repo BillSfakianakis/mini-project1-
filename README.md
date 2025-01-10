@@ -34,8 +34,8 @@ This project is a simple "Casino Number Guessing Game" implemented in C. The use
 4. The game continues until the player chooses to exit or runs out of money.
 
 ## Example Gameplay
------------------------------------------WELCOME TO CASINO WORLD-------------------------------------- What's your name ? : Bill
-
+-----------------------------------------WELCOME TO CASINO WORLD-------------------------------------- 
+What's your name ? : Bill
 Enter the starting balance to play game: 100
 
 -----------------------------CASINO NUMBER GUESSING RULES!-----------------------------------
