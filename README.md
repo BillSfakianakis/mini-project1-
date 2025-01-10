@@ -17,7 +17,7 @@ This project is a simple "Casino Number Guessing Game" implemented in C++. The u
 2. **Compile the program**:
     Open the terminal and navigate to the project directory, then compile the program using `gcc`:
     ```bash
-    gcc -o casino_game casino_game.c
+    gcc -o casino_game casino_game.cpp
     ```
 
 3. **Run the program**:
