@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a simple "Casino Number Guessing Game" implemented in C. The user starts with a balance and can place bets by guessing a number between 1 and 10. If the guess is correct, the user wins 10 times the amount they bet. If the guess is wrong, the user loses the amount they bet. The game continues until the user decides to stop or runs out of money.
+This project is a simple "Casino Number Guessing Game" implemented in C++. The user starts with a balance and can place bets by guessing a number between 1 and 10. If the guess is correct, the user wins 10 times the amount they bet. If the guess is wrong, the user loses the amount they bet. The game continues until the user decides to stop or runs out of money.
 
 ## Technologies Used
 - **C Programming Language**
