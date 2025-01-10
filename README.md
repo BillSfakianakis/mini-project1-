@@ -53,3 +53,7 @@ Oops, better luck next time!!! you lost $50 The winning number was: 3 Bill, You 
 
 Thanks for playing the game Bill!!! Your final balance is $170
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
